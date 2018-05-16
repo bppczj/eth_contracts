@@ -28,6 +28,10 @@
 
 点击后显示地址"0x4b0897b0513fdc7c541b6d9d7e929c4e5364d2db"的账户余额
 
+* 点击minter
+
+显示合约创建者地址
+
 ![myToken](fig1.png )
 
 
